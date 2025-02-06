@@ -1,5 +1,5 @@
 # 🎧 P2P Sesli & Yazılı Sohbet Uygulaması
-
+![Anime Girl](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXozbmNjenF2cHo5d2FyNnlteTNnbm90ejRmazgyc2ZvbHlvYmJ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif)
 Bu proje, uçtan uca şifrelenmiş, sesli ve yazılı bir **Peer-to-Peer (P2P) sohbet** uygulamasıdır. **Gürültü engelleme**, **şifreleme**, **dosya & resim paylaşımı** gibi gelişmiş özellikler içerir.
 
 ![Anime Girl](https://media.tenor.com/SOMETHING_RANDOM.gif)
